@@ -1,0 +1,14 @@
+header{
+    color:black;
+    text-align: center;
+    align-items: center;
+    background-color:rgb(207, 243, 75);
+}
+.data{
+    width:800px;
+    margin-top: 30px;
+    background-color: rgb(237, 249, 167);
+    margin-left: 300px;
+    padding: 40px;
+    text-align: center;
+}
